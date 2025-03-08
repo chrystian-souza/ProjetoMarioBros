@@ -1,7 +1,7 @@
 # ProjetoMarioBros
 
 🎮 Super Mario Bros - O Filme
-Uma página promocional desenvolvida em HTML, CSS e JavaScript para o filme Super Mario Bros. O projeto inclui um vídeo de fundo, informações sobre o filme e um botão para assistir ao trailer oficial.
+Uma página promocional desenvolvida em HTML e CSS para o filme Super Mario Bros. O projeto inclui um vídeo de fundo, informações sobre o filme e um botão para assistir ao trailer oficial.
 
 🚀 Como funciona
 A página é composta por:
